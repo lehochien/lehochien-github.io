@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/lehochien/lehochien-github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Leho github home
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Welcome to my github home !
 
 ```markdown
 Syntax highlighted code block
